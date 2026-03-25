@@ -253,11 +253,6 @@ React will compile and automatically open your browser at: `http://localhost:300
 
 These accounts are created automatically when you run `database.sql`.
 
-| Role | Email | Password |
-|---|---|---|
-| Admin | admin@scfeat.com | password |
-| Manager | manager@scfeat.com | password |
-| Auditor | auditor1@scfeat.com | password |
 
 > Change these passwords immediately after first login via the Profile page.
 
