@@ -145,7 +145,7 @@ Enter your root password when prompted.
 ### Step 3 — Run the schema file
 
 ```sql
-SOURCE C:/Users/HP/Desktop/Projects/food-system-survey-platform/backend/database.sql;
+database.sql;
 ```
 
 Or from outside MySQL:
